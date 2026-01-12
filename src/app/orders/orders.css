@@ -1,0 +1,33 @@
+table {
+  width: 100%;
+  border-collapse: collapse;
+  background: #fff;
+}
+
+table th,
+table td {
+  padding: 12px;
+  border: 1px solid #ddd;
+}
+
+table th {
+  background: #1e293b;
+  color: #fff;
+}
+
+table button {
+  padding: 6px 10px;
+  border-radius: 5px;
+  border: none;
+  cursor: pointer;
+}
+
+table button:first-child {
+  background: #0ea5e9;
+  color: #fff;
+}
+
+table button:last-child {
+  background: #22c55e;
+  color: #fff;
+}
